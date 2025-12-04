@@ -1,0 +1,9 @@
+{
+	"name": "EntradaDeTextoRAM",
+	"plugin-id": "TextBox",
+	"sid": 348090137112651,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": []
+}

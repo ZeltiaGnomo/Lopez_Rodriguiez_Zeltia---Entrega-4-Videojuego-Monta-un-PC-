@@ -1,0 +1,32 @@
+{
+	"name": "Hoja de eventos MenuInicio",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Raton",
+					"sid": 780201716479107,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "TextoJugar"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 209327177400437,
+					"parameters": {
+						"layout": "Juego"
+					}
+				}
+			],
+			"sid": 851507555116277
+		}
+	],
+	"sid": 284772607196464
+}
